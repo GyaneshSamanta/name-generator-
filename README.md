@@ -1,13 +1,13 @@
-# Name Generator
+# Creative Name Generator
 
-A creative tool for generating random or procedurally generated names for various applications, such as games, characters, or brands.
+A procedural names generator designed for creative applications like character design, gaming, and branding.
 
 ## Features
 
-- **Categorized Generation**: Generate names based on themes (Fantasy, Sci-Fi, Modern).
-- **Customizable Patterns**: Define name formats using prefixes and suffixes.
-- **Bulk Generation**: Export lists of generated names for further use.
+- **Flexible Generation**: Create names based on different thematic archetypes (Fantasy, Sci-Fi, Modern).
+- **Export Capabilities**: Generate bulk lists of names for project brainstorming.
+- **Lightweight Implementation**: Built for speed and easy integration with other tools.
 
-## Implementation
+## Supported Platforms
 
-Built using Python/JavaScript for lightweight execution and easy integration.
+JavaScript/Python (see specific language implementation in the source).
